@@ -1,12 +1,11 @@
-# Discounted Cash Flow (DCF) Calculator with Sensitivity Analysis
-
+# Discounted Cash Flow (DCF) Calculator 
 **Project Overview**
 
-The purpose of this project is to create a Discounted Cash Flow (DCF) calculator with an interactive graphical interface. The tool allows users to calculate the DCF and Net Present Value (NPV) of an investment based on projected cash flows, discount rates, terminal value, and initial investment. Additionally, the project includes a feature for sensitivity analysis to visualize the impact of changing key variables on the NPV.
+The purpose of this project is to create a Discounted Cash Flow (DCF) calculator with an interactive graphical interface. The tool allows users to calculate the DCF and Net Present Value (NPV) of an investment based on projected cash flows, discount rates, terminal value, and initial investment.
 
 The DCF method is used to estimate the value of an investment by discounting its expected future cash flows. The methodology involves several steps. First, users input the expected cash flows for each period. Next, they determine the discount rate, which is used to discount future cash flows to their present value. The terminal value, representing the value of the investment at the end of the projection period, is also considered. Each future cash flow is discounted back to its present value, and these values are summed to calculate the total DCF. Finally, the initial investment is subtracted from the total DCF to obtain the NPV.
 
-This project features an interactive GUI built using Tkinter for easy input and real-time updates. Sensitivity analysis is facilitated through sliders for adjusting discount rates and terminal values, allowing users to see real-time effects on NPV. Graphical visualization is achieved with Matplotlib, which is used to plot future cash flows, present value of cash flows, cumulative DCF, and discounted terminal value. Annotations on the graph provide clear values for better understanding.
+This project features an interactive GUI built using Tkinter for easy input and real-time updates. Graphical visualization is achieved with Matplotlib, which is used to plot future cash flows, present value of cash flows, cumulative DCF, and discounted terminal value. Annotations on the graph provide clear values for better understanding.
 
 **Code Description**
 
