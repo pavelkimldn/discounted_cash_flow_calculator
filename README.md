@@ -24,4 +24,4 @@ The on_calculate function handles the calculation and updates the result display
 
 The update_cash_flow_entries function updates the cash flow input fields based on the number of periods specified by the user.
 
-![github](/images/icon.png)
+![github](https://github.com/pavelkimldn/discounted_cash_flow_calculator/blob/main/Picture%201.png)
