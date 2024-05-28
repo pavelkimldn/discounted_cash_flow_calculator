@@ -23,3 +23,5 @@ The plot_dcf function generates a plot showing future cash flows, present values
 The on_calculate function handles the calculation and updates the result display. It retrieves user inputs, calls the calculation function, and updates the result label and plot.
 
 The update_cash_flow_entries function updates the cash flow input fields based on the number of periods specified by the user.
+
+![github](/images/icon.png)
